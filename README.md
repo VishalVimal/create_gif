@@ -43,6 +43,7 @@ Now, run the code to make sure it works. Hopefully there's no error!
 Here are two images that you can use for this project:
   * [night_city1](https://github.com/VishalVimal/create_gif/assets/89790963/cb0c02ff-b4c2-48eb-b61c-48646e629a9a).png
   * [team-pic2](https://github.com/VishalVimal/create_gif/assets/89790963/db15c57c-748b-4d9f-bf98-4e380d33f917).png
+    
 Note: Make sure to store the image files in the same folder as your Python program file. 💡
 
 In our Python program, we'll create a list that contains the locations of the image files. We also need to create an empty list that will be used to store the actual image data from these files.
