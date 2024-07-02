@@ -44,7 +44,8 @@ Here are two images that you can use for this project:
   * [night_city1](https://github.com/VishalVimal/create_gif/assets/89790963/cb0c02ff-b4c2-48eb-b61c-48646e629a9a).png
   * [team-pic2](https://github.com/VishalVimal/create_gif/assets/89790963/db15c57c-748b-4d9f-bf98-4e380d33f917).png
     
-Note: Make sure to store the image files in the same folder as your Python program file. 💡
+Note: Make sure to store the image files in the same folder as your Python program file. 💡 or you can use seprate folders for the files like image folder for images and output folder for output but make sure to mention the correct path in the code ex: images/night_city1.png and Output/nightcity.gif.
+
 
 In our Python program, we'll create a list that contains the locations of the image files. We also need to create an empty list that will be used to store the actual image data from these files.
 ```bash
